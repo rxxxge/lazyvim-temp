@@ -40,6 +40,11 @@ return {
         config = true,
     },
 
+    -- Multiline visual editingevolved
+    {
+        "mg979/vim-visual-multi",
+    },
+
     -- Refactoring tool
     {
         "ThePrimeagen/refactoring.nvim",
